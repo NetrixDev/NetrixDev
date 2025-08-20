@@ -1,47 +1,47 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">🚀 Software Engineer in Progress | A passionate developer from Sri Lanka 🇱🇰</h3>
-<p align="center">Python • C++ • Rust • Assembly • Qt • Kali Linux • GUI & Gaming Tools</p>
+<h1 align="center">
+  <span style="color:#00ffea; text-shadow: 0 0 5px #00ffea, 0 0 10px #00ffea;">Hi 👋, I'm Akash</span>
+</h1>
+<h3 align="center" style="color:#a0a0a0;">🚀 Software Engineer in Progress | A passionate developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=netrixdev&theme=monokai" alt="GitHub Trophy"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=netrixdev&label=Profile%20views&color=0e75b6&style=flat" alt="netrixdev" />
 </p>
 
-<h3 align="center">🌐 Connect with Me</h3>
+<div align="center" style="background: #0d0d0d; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px #00ffea;">
+  <p style="color:#00ffea; font-weight:bold;">🌱 I’m currently learning <span style="color:#f39c12;">Ethical Hacking</span></p>
+  <p style="color:#00ffea; font-weight:bold;">💬 Ask me about <span style="color:#9b59b6;">Kali Linux</span></p>
+  <p style="color:#00ffea; font-weight:bold;">📫 Reach me: <a href="mailto:akashdhananjaya2@gmail.com" style="color:#f39c12;">akashdhananjaya2@gmail.com</a></p>
+</div>
+
+<h3 align="center" style="margin-top:30px; color:#00ffea;">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akash"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/netrixdev"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/akash"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<h3 align="center">💻 Languages & Tools</h3>
+<h3 align="center" style="color:#00ffea;">Languages & Tools:</h3>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="color:#00ffea; margin-top:30px;">Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=netrixdev&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netrixdev&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netrixdev&show_icons=true&locale=en&layout=compact&theme=dark" alt="top languages"/>
 </p>
-
-<h3 align="center">🔥 Streaks</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netrixdev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=netrixdev&show_icons=true&locale=en&theme=dark" alt="github stats"/>
 </p>
-
-<h3 align="center">🎨 Fun Sinhala Tagline</h3>
 <p align="center">
-"අදහස් කේතවලට පරිවර්තනය කරනවා, එක් project එකකට එක්වරක්. 💻✨"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netrixdev&theme=dark" alt="streak stats"/>
 </p>
