@@ -1,221 +1,102 @@
-# 🚀 Welcome to My Digital Universe
-
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Code+Architect;Digital+Innovator" alt="Typing SVG" />
-  
-  <!-- Glitch Effect Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=CYBER%20SPACE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-  
-</div>
-
----
-
-## 🌟 **SYSTEM STATUS** 
-
-<div align="center">
-
-```css
-.developer {
-  name: "Your Name";
-  role: "Full Stack Developer & Security Researcher";
-  status: "Building the Future";
-  location: "Digital Realm";
-  availability: "Open to Collaborations";
-}
-```
-
-</div>
-
----
-
-## 🛠️ **TECHNOLOGY ARSENAL**
-
-<div align="center">
-
-### **⚡ Core Languages**
-<img src="https://skillicons.dev/icons?i=cpp,python,js,typescript,rust,qt&theme=dark" />
-
-### **🔧 Frameworks & Tools** 
-<img src="https://skillicons.dev/icons?i=nodejs,react,vue,docker,linux,kali&theme=dark" />
-
-### **🎨 Animation & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Manim-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mathematical_Animation-4ECDC4?style=for-the-badge&logo=graph&logoColor=white" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/NetrixDev-logo.svg" alt="NetrixDev" width="120"/>
 </p>
 
-### **🔐 Cybersecurity Arsenal**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gray_Hat-333333?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white" />
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00ffcc">NetrixDev</span>
+</h1>
+<h3 align="center">
+  Dark Hacker | Gray Hat | Software Engineer | Cyberpunk Developer
+</h3>
+
+<p align="center">
+  <a href="https://github.com/NetrixDev">
+    <img src="https://img.shields.io/github/followers/NetrixDev?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://twitter.com/NetrixDev">
+    <img src="https://img.shields.io/twitter/follow/NetrixDev?label=Follow&style=social" alt="Twitter Follow"/>
+  </a>
 </p>
 
+---
+
+## 🌌 Skills & Tools
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/C++.svg" width="50"><br>C++
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Python.svg" width="50"><br>Python
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/JavaScript.svg" width="50"><br>JavaScript
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/TypeScript.svg" width="50"><br>TypeScript
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Rust.svg" width="50"><br>Rust
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Assembly.svg" width="50"><br>Assembly
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Qt.svg" width="50"><br>Qt
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Manim.svg" width="50"><br>Manim
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Kali.svg" width="50"><br>Kali Linux
+</td>
+<td align="center">
+  <img src="https://github.com/Scar1109/skill-icons/raw/main/icons/Hacking.svg" width="50"><br>Gray Hat Hacking
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 **REAL-TIME ANALYTICS**
+## ⚡ Real-time Stats
 
-<div align="center">
-
-<!-- GitHub Stats Grid -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%"/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NetrixDev&show_icons=true&theme=radical" alt="NetrixDev GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetrixDev&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🎯 **SKILL MATRIX**
+## 🔮 My Current Focus
 
-<div align="center">
-
-| **Category** | **Technologies** | **Proficiency** |
-|:---:|:---:|:---:|
-| **Backend** | C++, Python, Rust | ![90%](https://progress-bar.dev/90?color=00d9ff) |
-| **Frontend** | JavaScript, TypeScript | ![85%](https://progress-bar.dev/85?color=00d9ff) |
-| **Security** | Kali Linux, Assembly | ![88%](https://progress-bar.dev/88?color=ff6b6b) |
-| **Animation** | Manim, Mathematical Viz | ![92%](https://progress-bar.dev/92?color=4ecdc4) |
-| **Frameworks** | Qt, Node.js | ![87%](https://progress-bar.dev/87?color=ffd93d) |
-
-</div>
+- Building futuristic GUIs with **Electron.js + Python backend**  
+- Creating **network & hacking tools** for ethical hacking  
+- Animations & simulations using **Manim**  
+- Mastering **Rust & TypeScript** for high-performance apps  
 
 ---
 
-## 🌐 **DIGITAL PRESENCE**
+## 🎯 Fun Facts
 
-<div align="center">
-
-<!-- Social Network -->
-<a href="mailto:your.email@domain.com">
-  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://yourwebsite.dev">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
-</a>
-
-</div>
+- ⚡ I can make your PC do crazy things without touching it  
+- 🌐 Living in **the terminal**, coding all night  
+- 🤖 AI-assisted everything—your bots, my rules  
+- 🕹️ Minecraft Bedwars fanatic, multi-CPS god  
 
 ---
 
-## 🏆 **ACHIEVEMENTS UNLOCKED**
-
-<div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&no-frame=true&row=1&column=7" width="100%"/>
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKPdUQjO4I1lUik/giphy.gif" alt="Cyberpunk vibe" width="400"/>
+</p>
 
 ---
 
-## 🔥 **CURRENT FOCUS**
+<p align="center">
+  "The terminal is my playground, the code is my weapon, and chaos is my art."  
+</p>
 
-<div align="center">
-
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.learning = ["Advanced Rust", "WebAssembly", "Quantum Computing"]
-        self.building = ["AI-Powered Security Tools", "Mathematical Visualizations"]
-        self.exploring = ["Blockchain Security", "IoT Penetration Testing"]
-        self.collaborating = ["Open Source Projects", "Security Research"]
-    
-    def get_status(self):
-        return "Constantly evolving and pushing boundaries! 🚀"
-```
-
-</div>
-
----
-
-## 💡 **FEATURED REPOSITORIES**
-
-<div align="center">
-
-<!-- Pinned Repos -->
-<a href="https://github.com/yourusername/amazing-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-</a>
-<a href="https://github.com/yourusername/amazing-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-## 🎨 **MATHEMATICAL ART WITH MANIM**
-
-<div align="center">
-
-*"Code is poetry, and mathematics is its rhythm"*
-
-<!-- You can replace these with actual GIFs of your Manim animations -->
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-
-</div>
-
----
-
-## 🔐 **SECURITY TOOLBOX**
-
-<div align="center">
-
-```bash
-┌─[root@kali]─[~]
-└──╼ # Available Tools
-├── Network Scanning & Enumeration
-├── Web Application Security Testing  
-├── Binary Analysis & Reverse Engineering
-├── Cryptography & Steganography
-├── Social Engineering Frameworks
-└── Custom Exploit Development
-```
-
-**Ethical Hacking | Penetration Testing | Security Research**
-
-</div>
-
----
-
-## 🌟 **VISITOR COUNT**
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 **"The only way to make sense out of change is to plunge into it, move with it, and join the dance."**
-
-*Building tomorrow's solutions today* ⚡
-
-</div>
